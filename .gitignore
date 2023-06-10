@@ -1,0 +1,8 @@
+# vscode local config
+.vscode
+
+# tar zip file
+*.tar.gz
+
+# build bash file
+goBuild.bash
